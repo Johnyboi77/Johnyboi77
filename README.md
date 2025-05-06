@@ -1,5 +1,5 @@
-## Hi there 👋
-
+Hi, I'm Jonas Frey
+🖥️ I've been coding in Python for over 1 years
 <!--
 **Johnyboi77/Johnyboi77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
