@@ -1,6 +1,6 @@
 Hi, I'm Jonas Frey
 🖥️ I#m coding for almost 2 years now.
-My favorutie languages are. JavaScript, Python & Go.
+My favorutie languages are TypeScript, JavaScript & Go
 <!--
 **Johnyboi77/Johnyboi77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
