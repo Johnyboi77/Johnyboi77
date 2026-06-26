@@ -1,5 +1,5 @@
 Hi, I'm Jonas Frey
-🖥️ Im coding for almost 2 years now.
+🖥️ Im coding for almost 3 years now.
 My favorite languages are TypeScript, JavaScript & Go
 <!--
 **Johnyboi77/Johnyboi77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
